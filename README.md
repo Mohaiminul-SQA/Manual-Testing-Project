@@ -4,35 +4,35 @@ This repository contains documentation related to the testing process for DRIVER
 
 1. [Test Cases Estimation](#test-estimation)
 2. [Test Plan](#test-estimation)
-3. [Test Cases Design](#test-case-documentation)
+3. [Test Cases Design](#test-case-design)
 4. [Test Cases Execution](#test-case-execution)
-5. [Bug Report in Redmine](#bug-report)
+5. [Bug Report in Redmine](#bug-report-in-redmine)
 6. [QA Report](#qa-report)
 
 ## Test Estimation
 
-In this stage, we estimate the effort required for testing based on the Software Requirement Specification (SRS) documentation. The key documents for this stage include:
+In this stage, I estimated the effort required for testing based on the Software Requirement Specification (SRS) documentation.
+![Test Case Estimation](https://drive.google.com/file/d/1XwZTeKZycz2Cw_zia0r0FrMDpySpiKZA/view?usp=drive_link)
 
-- [SRS Document](./docs/srs-document.pdf)
-- [Test Estimation Report](./docs/test-estimation-report.pdf)
 
-## Test Case Documentation
+## Test Planning
 
-Once the test estimation is complete, we proceed to create detailed test cases. The relevant documents for this stage include:
+Once the test estimation is complete, I proceed to create Test Plan. In that plan I provide an overview of the project then mention the scope of the testing, working schedule,Testing Techniques, Strategy etc.
 
-- [Test Case Document](./docs/test-case-document.pdf)
+![Test Plan](https://drive.google.com/file/d/1Zvlv4yj20rCCQMG4nRVCzEb1e-69kdkO/view?usp=drive_link)
 
-## Test Case Execution
+## Test Cases Design
 
-This stage involves the actual execution of test cases and recording the results. The documentation for this stage includes:
+After the Test Planning I started to write test cases based on the SRS Document. I always try to understand the requirement and to create comprehensive test cases to achive the maximum test coverage. 
 
-- [Test Case Execution Report](./docs/test-case-execution-report.pdf)
+![Test Cases Design](https://drive.google.com/file/d/1yos7tsB6BTNbX5LkiTK42CUBrW8OvIqh/view?usp=drive_link)
 
 ## Bug Report
 
-If any issues or defects are identified during test case execution, they are documented in a bug report. The key document for this stage is:
+If any issues or defects are identified during test case execution, they are documented in a bug report. Bug Report were written both in .doc file and in Redmine. Each Bug Id is coming from Redmine Bug Id.
 
-- [Bug Report](./docs/bug-report.pdf)
+![Bug Report](https://drive.google.com/file/d/1Jr2gjGFrgeCsFoencsEiq_9c4VJfK1bf/view?usp=drive_link)
+
 
 ## QA Report
 
@@ -40,10 +40,3 @@ Finally, the QA team compiles a report summarizing the testing process and its o
 
 - [QA Report](./docs/qa-report.pdf)
 
-## License
-
-Specify the license under which this documentation is distributed. For example, [MIT License](LICENSE).
-
----
-
-You can customize this structure and add links to your actual documents within your repository. This structure provides a clear outline of the testing process and links to the relevant documents for each stage.
