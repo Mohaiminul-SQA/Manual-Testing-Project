@@ -2,12 +2,12 @@
 
 This repository contains documentation related to the testing process for DRIVER (Data for Road Incident Visualization Evaluation and Reporting), a specialized software tool designed for the purpose of collecting and analyzing road accident data. The testing process is divided into the following stages:
 
-1. Test Cases Estimation
-2. Test Plan
-3. Test Cases Design
-4. Test Cases Execution
-5. Bug Report in Redmine
-6. QA Report
+1. [Test Estimation](#test-estimation)
+2. [Test Plan](#test-plan)
+3. [Test Cases Design](#test-cases-design)
+4. [Test Cases Execution](#test-cases-execution)
+5. [Bug Report in Redmine](#bug-report-in-redmine)
+6. [QA Report](#qa-report)
 
 ## Test Estimation
 
