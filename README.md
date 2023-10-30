@@ -4,7 +4,7 @@ This repository contains documentation related to the testing process for DRIVER
 
 1. [Test Cases Estimation](#test-estimation)
 2. [Test Plan](#test-estimation)
-3. [Test Cases Design](#test-case-design)
+3. [Test Cases Design](#test-case)
 4. [Test Cases Execution](#test-case-execution)
 5. [Bug Report in Redmine](#bug-report-in-redmine)
 6. [QA Report](#qa-report)
@@ -12,8 +12,7 @@ This repository contains documentation related to the testing process for DRIVER
 ## Test Estimation
 
 In this stage, I estimated the effort required for testing based on the Software Requirement Specification (SRS) documentation.
-![Test Case Estimation](https://drive.google.com/file/d/1XwZTeKZycz2Cw_zia0r0FrMDpySpiKZA/view?usp=drive_link)
-
+- ![Test Case Estimation](https://drive.google.com/file/d/1XwZTeKZycz2Cw_zia0r0FrMDpySpiKZA/view?usp=sharing)
 
 ## Test Planning
 
