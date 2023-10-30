@@ -15,11 +15,13 @@ In this stage, I estimated the effort required for testing based on the Software
 
 ![Test Estimation](https://github.com/Mohaiminul-SQA/images-for-sqa/blob/main/Estimation.png)
 
+
 ## Test Planning
 
 Once the test estimation is complete, I proceed to create a Test Plan. In that plan, I provide an overview of the project and then mention the scope of the testing, working schedule, Testing Techniques, Strategy, etc.
 
 ![Test Plan](https://github.com/Mohaiminul-SQA/images-for-sqa/blob/main/Test-plan.png)
+
 
 ## Test Cases Design
 
@@ -27,15 +29,17 @@ After the Test Planning, I started to write test cases based on the SRS Document
 
 ![Test Cases Design](https://github.com/Mohaiminul-SQA/images-for-sqa/blob/main/design.png)
 
+
 ## Test Cases Execution
 
 This stage involves the actual execution of test cases and the recording of the results.
 
 ![Test Cases Execution](https://github.com/Mohaiminul-SQA/images-for-sqa/blob/main/execution.png)
 
+
 ## Bug Report in Redmine
 
-If any issues or defects are identified during test case execution, they are documented in a bug report. Bug Report were written both in .doc file and in Redmine. Each Bug Id is coming from Redmine Bug ID.
+If any issues or defects are identified during test case execution, they are documented in a bug report. Bug Reports were written both in the .doc file and in Redmine. Each Bug ID is coming from Redmine Bug ID.
 
 ![Bug Report](https://github.com/Mohaiminul-SQA/images-for-sqa/blob/main/Bug%20Report.png)
 
